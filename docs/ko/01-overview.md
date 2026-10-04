@@ -14,7 +14,7 @@ Roomake ([www.roomake.top](https://www.roomake.top))는 사진 한 장으로 실
 
 ## 두 개의 사이트, 하나의 코드베이스
 
-| | [www.roomake.top](https://www.roomake.top) | [roomake.cn](https://roomake.cn) |
+| | [www.roomake.top](https://www.roomake.top) | [www.roomake.cn](https://www.roomake.cn) |
 |---|---|---|
 | 대상 | 글로벌 | 중국 본토 |
 | 언어 | 영어(기본) + `/zh`, 日本語 · Deutsch · Français · 한국어 순차 출시 중 | 简体中文 전용 |

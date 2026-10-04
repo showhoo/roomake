@@ -14,7 +14,7 @@ Los precios siguen el mismo minimalismo: créditos prepagados, un crédito por r
 
 ## Dos propiedades, un código base
 
-| | [www.roomake.top](https://www.roomake.top) | [roomake.cn](https://roomake.cn) |
+| | [www.roomake.top](https://www.roomake.top) | [www.roomake.cn](https://www.roomake.cn) |
 |---|---|---|
 | Público | Global | China continental |
 | Idiomas | Inglés (por defecto) + `/zh`, con 日本語 · Deutsch · Français · 한국어 llegando progresivamente | Solo 简体中文 |

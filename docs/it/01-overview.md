@@ -14,7 +14,7 @@ I prezzi seguono lo stesso minimalismo: crediti prepagati, un credito per render
 
 ## Due proprietà, una codebase
 
-| | [www.roomake.top](https://www.roomake.top) | [roomake.cn](https://roomake.cn) |
+| | [www.roomake.top](https://www.roomake.top) | [www.roomake.cn](https://www.roomake.cn) |
 |---|---|---|
 | Pubblico | Globale | Cina continentale |
 | Lingue | Inglese (predefinito) + `/zh`, con 日本語 · Deutsch · Français · 한국어 in rollout progressivo | Solo 简体中文 |

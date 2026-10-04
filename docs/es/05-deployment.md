@@ -7,7 +7,7 @@
 Producción son dos despliegues independientes del mismo código base:
 
 - **roomake.top** — alcance de locale global, checkout internacional, base de datos y almacenamiento de medios propios.
-- **roomake.cn** — alcance solo zh, checkout para China continental, datos totalmente aislados.
+- **www.roomake.cn** — alcance solo zh, checkout para China continental, datos totalmente aislados.
 
 No comparten nada en tiempo de ejecución. Un mal release en uno no puede tocar al otro; un bug de datos no puede cruzar. El costo es mantener dos pipelines, y el costo vale la pena — el aislamiento regional es a la vez un argumento de cumplimiento y un argumento de radio de explosión.
 

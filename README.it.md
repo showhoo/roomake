@@ -34,7 +34,7 @@ Ogni documento è disponibile in **English · 简体中文 · 日本語 · 한�
 
 ## Link
 
-- Prodotto: [www.roomake.top](https://www.roomake.top) · Cina continentale: [roomake.cn](https://roomake.cn)
+- Prodotto: [www.roomake.top](https://www.roomake.top) · Cina continentale: [www.roomake.cn](https://www.roomake.cn)
 - Domande o correzioni su queste note: `support@roomake.top`
 
 ## Licenza

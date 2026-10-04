@@ -34,7 +34,7 @@
 
 ## リンク
 
-- プロダクト: [www.roomake.top](https://www.roomake.top) · 中国本土: [roomake.cn](https://roomake.cn)
+- プロダクト: [www.roomake.top](https://www.roomake.top) · 中国本土: [www.roomake.cn](https://www.roomake.cn)
 - このノートに関する質問や訂正: `support@roomake.top`
 
 ## ライセンス

@@ -14,7 +14,7 @@ Das Preismodell folgt demselben Minimalismus: Prepaid-Credits, ein Credit pro Re
 
 ## Zwei Websites, eine Codebasis
 
-| | [www.roomake.top](https://www.roomake.top) | [roomake.cn](https://roomake.cn) |
+| | [www.roomake.top](https://www.roomake.top) | [www.roomake.cn](https://www.roomake.cn) |
 |---|---|---|
 | Zielgruppe | Weltweit | Festlandchina |
 | Sprachen | English (Standard) + `/zh`, mit 日本語 · Deutsch · Français · 한국어 in der Ausrollung | Nur 简体中文 |

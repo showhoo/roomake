@@ -7,7 +7,7 @@
 Die Produktion besteht aus zwei unabhängigen Deployments derselben Codebasis:
 
 - **roomake.top** — globaler Locale-Scope, internationaler Checkout, eigene Datenbank und eigener Medienspeicher.
-- **roomake.cn** — zh-only-Scope, Checkout für Festlandchina, vollständig isolierte Daten.
+- **www.roomake.cn** — zh-only-Scope, Checkout für Festlandchina, vollständig isolierte Daten.
 
 Zur Laufzeit teilen sie sich nichts. Ein schlechter Release auf der einen kann die andere nicht anfassen; ein Daten-Bug kann nicht hinüberwechseln. Der Preis sind zwei parallel betriebene Pipelines, und der ist es wert — regionale Isolation ist sowohl eine Compliance- als auch eine Blast-Radius-Geschichte.
 

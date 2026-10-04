@@ -34,7 +34,7 @@
 
 ## 链接
 
-- 产品：[www.roomake.top](https://www.roomake.top) · 中国站：[roomake.cn](https://roomake.cn)
+- 产品：[www.roomake.top](https://www.roomake.top) · 中国站：[www.roomake.cn](https://www.roomake.cn)
 - 关于笔记的问题或勘误：`support@roomake.top`
 
 ## 许可

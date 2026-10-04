@@ -14,7 +14,7 @@ Roomake（[www.roomake.top](https://www.roomake.top)）用一张照片重设计�
 
 ## 两个站点，一套代码
 
-| | [www.roomake.top](https://www.roomake.top) | [roomake.cn](https://roomake.cn) |
+| | [www.roomake.top](https://www.roomake.top) | [www.roomake.cn](https://www.roomake.cn) |
 |---|---|---|
 | 面向 | 全球 | 中国大陆 |
 | 语言 | 英文（默认）+ `/zh`，日本語 · Deutsch · Français · 한국어 陆续开放 | 仅简体中文 |

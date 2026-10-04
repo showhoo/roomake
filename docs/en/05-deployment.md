@@ -7,7 +7,7 @@
 Production is two independent deployments of the same codebase:
 
 - **roomake.top** — global locale scope, international checkout, its own database and media storage.
-- **roomake.cn** — zh-only scope, mainland-China checkout, fully isolated data.
+- **www.roomake.cn** — zh-only scope, mainland-China checkout, fully isolated data.
 
 They share nothing at runtime. A bad release on one cannot touch the other; a data bug cannot cross. The cost is running two pipelines, and the cost is worth it — regional isolation is both a compliance story and a blast-radius story.
 

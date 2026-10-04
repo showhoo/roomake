@@ -14,7 +14,7 @@ Roomake（[www.roomake.top](https://www.roomake.top)）は、写真1枚から現
 
 ## 2つのサイト、1つのコードベース
 
-| | [www.roomake.top](https://www.roomake.top) | [roomake.cn](https://roomake.cn) |
+| | [www.roomake.top](https://www.roomake.top) | [www.roomake.cn](https://www.roomake.cn) |
 |---|---|---|
 | 対象 | グローバル | 中国本土 |
 | 言語 | English（デフォルト）+ `/zh`。日本語 · Deutsch · Français · 한국어 は順次公開 | 简体中文のみ |
