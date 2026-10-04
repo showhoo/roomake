@@ -35,6 +35,7 @@
 ## 링크
 
 - 제품: [www.roomake.top](https://www.roomake.top) · 중국 본토: [www.roomake.cn](https://www.roomake.cn)
+- Roomake는 [Chuangwit](https://www.chuangwit.com)의 제품입니다
 - 이 노트에 대한 질문이나 정정 사항: `support@roomake.top`
 
 ## 라이선스

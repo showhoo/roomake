@@ -35,6 +35,7 @@
 ## リンク
 
 - プロダクト: [www.roomake.top](https://www.roomake.top) · 中国本土: [www.roomake.cn](https://www.roomake.cn)
+- Roomake は [Chuangwit](https://www.chuangwit.com) のプロダクトです
 - このノートに関する質問や訂正: `support@roomake.top`
 
 ## ライセンス

@@ -35,6 +35,7 @@ Ogni documento è disponibile in **English · 简体中文 · 日本語 · 한�
 ## Link
 
 - Prodotto: [www.roomake.top](https://www.roomake.top) · Cina continentale: [www.roomake.cn](https://www.roomake.cn)
+- Roomake è un prodotto di [Chuangwit](https://www.chuangwit.com)
 - Domande o correzioni su queste note: `support@roomake.top`
 
 ## Licenza
